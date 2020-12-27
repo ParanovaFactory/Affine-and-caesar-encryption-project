@@ -1,0 +1,23 @@
+O:\Okul 4. Sınıf\Sistem Güvenliği\Ödev\Şifreleme\Şifreleme\bin\Debug\Şifreleme.exe.config
+O:\Okul 4. Sınıf\Sistem Güvenliği\Ödev\Şifreleme\Şifreleme\bin\Debug\Şifreleme.exe
+O:\Okul 4. Sınıf\Sistem Güvenliği\Ödev\Şifreleme\Şifreleme\bin\Debug\Şifreleme.pdb
+O:\Okul 4. Sınıf\Sistem Güvenliği\Ödev\Şifreleme\Şifreleme\obj\Debug\Şifreleme.csprojAssemblyReference.cache
+O:\Okul 4. Sınıf\Sistem Güvenliği\Ödev\Şifreleme\Şifreleme\obj\Debug\Şifreleme.Form1.resources
+O:\Okul 4. Sınıf\Sistem Güvenliği\Ödev\Şifreleme\Şifreleme\obj\Debug\Şifreleme.Properties.Resources.resources
+O:\Okul 4. Sınıf\Sistem Güvenliği\Ödev\Şifreleme\Şifreleme\obj\Debug\Şifreleme.Sezar.resources
+O:\Okul 4. Sınıf\Sistem Güvenliği\Ödev\Şifreleme\Şifreleme\obj\Debug\Şifreleme.csproj.GenerateResource.cache
+O:\Okul 4. Sınıf\Sistem Güvenliği\Ödev\Şifreleme\Şifreleme\obj\Debug\Şifreleme.csproj.CoreCompileInputs.cache
+O:\Okul 4. Sınıf\Sistem Güvenliği\Ödev\Şifreleme\Şifreleme\obj\Debug\Şifreleme.exe
+O:\Okul 4. Sınıf\Sistem Güvenliği\Ödev\Şifreleme\Şifreleme\obj\Debug\Şifreleme.pdb
+O:\Okul 4. Sınıf\Sistem Güvenliği\Ödev\Şifreleme\Şifreleme\obj\Debug\Şifreleme.Affine.resources
+O:\Okul 4. Sınıf\Sistem Güvenliği\Ödev\Şifreleme\Şifreleme\obj\Debug\Şifreleme.Verman.resources
+O:\Okul 4. Sınıf\Bilgisayar Sistem Güvenliği\Ödev\Şifreleme\Şifreleme\obj\Debug\Şifreleme.csprojAssemblyReference.cache
+O:\Okul 4. Sınıf\Bilgisayar Sistem Güvenliği\Ödev\Şifreleme\Şifreleme\obj\Debug\Şifreleme.Affine.resources
+O:\Okul 4. Sınıf\Bilgisayar Sistem Güvenliği\Ödev\Şifreleme\Şifreleme\obj\Debug\Şifreleme.Form1.resources
+O:\Okul 4. Sınıf\Bilgisayar Sistem Güvenliği\Ödev\Şifreleme\Şifreleme\obj\Debug\Şifreleme.Properties.Resources.resources
+O:\Okul 4. Sınıf\Bilgisayar Sistem Güvenliği\Ödev\Şifreleme\Şifreleme\obj\Debug\Şifreleme.Sezar.resources
+O:\Okul 4. Sınıf\Bilgisayar Sistem Güvenliği\Ödev\Şifreleme\Şifreleme\obj\Debug\Şifreleme.Verman.resources
+O:\Okul 4. Sınıf\Bilgisayar Sistem Güvenliği\Ödev\Şifreleme\Şifreleme\obj\Debug\Şifreleme.csproj.GenerateResource.cache
+O:\Okul 4. Sınıf\Bilgisayar Sistem Güvenliği\Ödev\Şifreleme\Şifreleme\obj\Debug\Şifreleme.csproj.CoreCompileInputs.cache
+O:\Okul 4. Sınıf\Bilgisayar Sistem Güvenliği\Ödev\Şifreleme\Şifreleme\obj\Debug\Şifreleme.exe
+O:\Okul 4. Sınıf\Bilgisayar Sistem Güvenliği\Ödev\Şifreleme\Şifreleme\obj\Debug\Şifreleme.pdb
